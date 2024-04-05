@@ -40,13 +40,4 @@ const styles = StyleSheet.create({
     width: 100,
     backgroundColor: "lightyellow",
   },
-
-  mainText: {
-    fontSize: 16,
-  },
-
-  subText: {
-    fontSize: 8,
-    color: "red",
-  },
 });
